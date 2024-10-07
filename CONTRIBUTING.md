@@ -19,8 +19,12 @@ Thank you for considering contributing to this project! Here are some guidelines
      git checkout -b your-feature-branch
      ```
 
-4. **Make Your Changes:**
+4. **Make and Stage Your Changes:**
    - Make your changes in your local repository.
+   - Use the git add command to stage the changes:
+     ```bash
+     git add .
+     ```
 
 5. **Commit Your Changes:**
    - Once you are satisfied with your changes, commit them with a clear message:
