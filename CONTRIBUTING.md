@@ -10,4 +10,4 @@ We welcome contributions to this project! Please follow the guidelines below to 
 2. **Clone Your Fork:**
    Clone your forked repository to your local machine:
    ```bash
-   git clone https://github.com/YourUsername/Coursera-IBM-Getting-Started-With-Git-and-Github.git
+   git clone https://github.com/AbdElAziz-Maazouz/Coursera-IBM-Getting-Started-With-Git-and-Github.git
